@@ -45,7 +45,7 @@
           </div>
           <div id="walletAddress" style="margin-top: 10px;"></div>
           <div>
-            <a class="btn btn-default submit" href="index.html">Log in</a>
+            <a class="btn btn-default submit" id="loginBtn" href="index.html">Log in</a>
             <a class="reset_pass" href="#">Lost your password?</a>
           </div>
 
@@ -129,6 +129,9 @@
         // Llamada a una función del contrato (opcional)
         const value = await contract.methods.get().call();
         console.log('Stored value in contract:', value);
+
+        // Redirigir al dashboard
+        window.location.href = 'http://localhost:24012'; // Reemplaza con tu URL de dashboard
       } catch (error) {
         console.error('User denied account access', error);
       }
