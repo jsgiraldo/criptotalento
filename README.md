@@ -1,4 +1,4 @@
-# Criptotalento Social DApp
+# Hackatón - Criptotalento Social DApp
 
 Criptotalento Social DApp es una plataforma descentralizada diseñada para empoderar la economía de mercados populares en Nariño, Colombia, mediante la adopción de tecnología blockchain y una criptomoneda nativa llamada Skill. Esta plataforma facilita transacciones peer-to-peer (P2P) seguras y eficientes, así como una serie de herramientas y servicios adicionales para mejorar la experiencia comercial de los usuarios.
 

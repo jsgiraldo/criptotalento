@@ -1341,7 +1341,7 @@ a:hover, a:focus {
   padding-left: 36px; }
 
 .nav-md ul.nav.child_menu li:before {
-  background: #425668;
+  background: #0acf0a;
   bottom: auto;
   content: "";
   height: 8px;
@@ -1433,7 +1433,7 @@ a:hover, a:focus {
   position: relative;
   display: block;
   padding: 10px 15px;
-  color: #34495E !important; }
+  color: #1fff02 !important; }
 
 .nav > li > a:hover, .nav > li > a:focus {
   background-color: transparent; }
